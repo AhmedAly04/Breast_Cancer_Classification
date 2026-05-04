@@ -19,7 +19,9 @@ It combines machine learning (RandomForestClassifier) with a Streamlit web inter
 ## 🎥 Demo
 🩺 **[Live Demo: Breast Cancer Diagnostic Web App](https://breastcancerclassification1.streamlit.app/)**
 
-https://github.com/user-attachments/assets/b3ad520f-59ea-423b-bb89-134cf59612de
+
+https://github.com/user-attachments/assets/4eb214f7-27d0-4a2e-8c63-1452356071c8
+
 
 ---
 
