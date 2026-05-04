@@ -1,4 +1,5 @@
 # 🎗️ Breast Cancer Diagnostic Web App (ML + Streamlit)
+
 This web application allows users to predict whether a breast mass is Malignant or Benign based on clinical image features.
 It combines machine learning (RandomForestClassifier) with a Streamlit web interface for real-time diagnostic assistance.
 
@@ -59,7 +60,7 @@ The model utilizes the following clinical features:
 
 ## 📁 Project Structure
 
-<img width="390" height="220" alt="Untitled" src="https://github.com/user-attachments/assets/94d9c5a3-38e0-4605-9d67-e9d3f295f4c7" />
+<img width="372" height="220" alt="Untitled" src="https://github.com/user-attachments/assets/26e8d74f-76c4-496c-b64b-f77a27645fc6" />
 
 ---
 
