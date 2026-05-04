@@ -4,8 +4,10 @@ import numpy as np
 import pickle 
 from sklearn.ensemble import RandomForestClassifier
 
-model_path = r'X:\ML\Projects\Breast Cancer\Deployment Using Streamlit\BreastCancer_model.pkl'
-pre_path = r'X:\ML\Projects\Breast Cancer\Deployment Using Streamlit\model_preprocessing.pkl'
+import os
+base_dir = os.path.dirname(__file__)
+model_path = os.path.join(base_dir, 'BreastCancer_model.pkl')
+pre_path = os.path.join(base_dir, 'model_preprocessing.pkl')
 
 with open(model_path, 'rb') as f:
     loaded_model = pickle.load(f)
